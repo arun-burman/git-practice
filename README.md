@@ -1,2 +1,4 @@
 # git-practice
-My First Repository.                                                                                                                                                                       y first repository
+My First Repository.
+<br>
+Author - Arun Burman
